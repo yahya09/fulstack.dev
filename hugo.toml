@@ -1,4 +1,30 @@
 baseURL = 'https://fulstack.dev/'
 languageCode = 'en-us'
-title = 'A Fulstack Dev Journey'
+title = 'A Ful(l)stack Dev Journey'
 theme = 'paper'
+disqusShortname = 'fulstack'   # use disqus comments
+
+[params]
+# color style
+color = 'linen'                           # linen, wheat, gray, light
+
+# header social icons
+twitter = 'yahyaman09'               # twitter.com/YOUR_TWITTER_ID
+github = 'yahya09'                 # github.com/YOUR_GITHUB_ID
+#instagram = 'YOUR_INSTAGRAM_ID'           # instagram.com/YOUR_INSTAGRAM_ID
+linkedin = 'yahya-muhammad'             # linkedin.com/in/YOUR_LINKEDIN_ID
+#mastodon = 'YOUR_MASTODON_LINK'           # e.g. 'https://mastodon.instance/@xxx'
+rss = true                                # show rss icon
+
+# home page profile
+avatar = 'yahyaman@gmail.com'                 # gravatar email or image url
+name = 'Yahya M.'
+bio = 'That fullstack dev'
+
+# misc
+disableHLJS = false                        # disable highlight.js
+disablePostNavigation = false              # disable post navigation
+monoDarkIcon = true                       # show monochrome dark mode icon
+#gravatarCdn = 'GRAVATAR_CDN_LINK'         # e.g. 'https://cdn.v2ex.com/gravatar/'
+#graphCommentId = "YOUR_GRAPH_COMMENT_ID"  # use graph comment (disqus alternative)
+#math = true                               # enable KaTeX math typesetting globally
