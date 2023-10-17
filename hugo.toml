@@ -1,0 +1,4 @@
+baseURL = 'https://fulstack.dev/'
+languageCode = 'en-us'
+title = 'A Fulstack Dev Journey'
+theme = 'paper'
