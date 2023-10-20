@@ -2,6 +2,7 @@
 title = 'Hello, World!'
 date = 2023-10-18T00:13:37+07:00
 draft = false
+slug = 'hello-world'
 +++
 
 Hello, world!
